@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 public class Car {
     // Attributes
     String brand;
@@ -32,6 +32,4 @@ public class Car {
         car1.startCar();
     }
 }
-=======
 
->>>>>>> 48b3ed589ade000a0c0f3af3ea8767581254638a

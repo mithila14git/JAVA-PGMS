@@ -1,4 +1,4 @@
-class Car {
+public class Car {
     // Attributes
     String brand;
     String model;
@@ -15,9 +15,8 @@ class Car {
     void startCar() {
         System.out.println(brand + " " + model + " is starting...");
     }
-}
 
-public class Main {
+    // Main method
     public static void main(String[] args) {
         // Creating an object
         Car car1 = new Car();
